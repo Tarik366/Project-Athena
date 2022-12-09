@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class TreeCut : ToolHit
 {
-    [SerializeField] GameObject PickUpDrop;
+    [SerializeField] GameObject PickUpDrop; 
     [SerializeField] int dropCount = 5;
     [SerializeField] float spread = 0.7f;
     
